@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair2516khan&label=Profile%20views&color=0e75b6&style=flat" alt="umair2516khan" /> </p>
 
-- 💬 Ask me about **reactjs ,nodejs ,nextjs, SQL/NO-SQL DB, MERN**
+- 💬 Ask me about **reactjs, react native ,nodejs ,nextjs, SQL/NO-SQL DB, MERN**
 
 - 📝 I write articles on [https://umairkhan.hashnode.dev/](https://umairkhan.hashnode.dev/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Nestjs**
 
 - 📫 How to reach me **umair2516khan@gmail.com**
 
